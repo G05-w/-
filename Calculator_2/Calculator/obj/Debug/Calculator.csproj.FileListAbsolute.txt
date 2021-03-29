@@ -1,0 +1,15 @@
+D:\C#\C#实验报告\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\C#\C#实验报告\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\C#\C#实验报告\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\C#\C#实验报告\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\C#\C#实验报告\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\C#\C#实验报告\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\86139\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\86139\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\86139\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\86139\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\86139\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\86139\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\86139\Documents\Visual Studio 2013\C#课后练习\Calculator_2\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\86139\Documents\Visual Studio 2013\C#课后练习\Calculator_2\Calculator\obj\Debug\Calculator.exe
+C:\Users\86139\Documents\Visual Studio 2013\C#课后练习\Calculator_2\Calculator\obj\Debug\Calculator.pdb
